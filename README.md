@@ -18,16 +18,16 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms and Backend Development**
 - 💬 Interested in **Problem Solving, Competitive Programming, and Software Engineering**
 - 🚀 Goal: Crack a **Product-based company**
-- 📫 How to reach me: **rajeshkumarthakur.23ai@aryacollege.in**
+- 📫 How to reach me: **rajeshthakur0905@gmail.com**
 
 ---
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
-  <a href="mailto:rajeshkumarthakur.23ai@aryacollege.in">
+  <a href="mailto:rajeshthakur0905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/RajeshThakur">
+  <a href="https://github.com/rajeshthakur30">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/">
